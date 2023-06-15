@@ -7,8 +7,8 @@
 <link rel="stylesheet" type="text/css">
     </head> 
 <body>
- <h1>Sessão principal.</h1>
- <a href="pag1.hmtl">Sessão 1</a>
+ <h1>Sessão 1.</h1>
+ <a href="index.hmtl">Sessão principal</a>
  </body>
  </html>
  
